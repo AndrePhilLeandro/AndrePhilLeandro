@@ -23,7 +23,3 @@
 ## Objetivo
 
 📚 Tornar-me um desenvolvedor de excelência, comprometido com o aprendizado contínuo e o compartilhamento de conhecimentos ao longo da minha trajetória profissional, contribuindo para a criação de soluções inovadoras e impactantes que agreguem valor às pessoas e às organizações.
-
----
-
-Se quiser, posso adaptar esse conteúdo para o LinkedIn ou GitHub também. Deseja?
