@@ -1,7 +1,3 @@
-Seu texto está muito bem estruturado e claro! Apenas recomendo pequenas correções e ajustes de pontuação para deixá-lo mais fluido e profissional. Veja abaixo a versão revisada:
-
----
-
 # Olá, eu sou o André! 👋
 
 ## Sobre mim
